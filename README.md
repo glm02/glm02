@@ -14,16 +14,14 @@ conçois des sites et des automatisations en pilotant des agents IA, sous le nom
 
 ## Projets
 
-<table>
-  <tr>
-    <td><a href="https://github.com/glm02/projet-vide-cave"><img src="assets/carte-vide-cave.svg" alt="projet-vide-cave : commande et surveillance d'une pompe, carte KiCad à PIC" width="100%"></a></td>
-    <td><a href="https://github.com/glm02/simu-pic"><img src="assets/carte-simu-pic.svg" alt="simu-pic : simulateur web du PIC16F1789" width="100%"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/glm02/skills-claude-code"><img src="assets/carte-skills.svg" alt="skills-claude-code : 40 procédures pour agents IA" width="100%"></a></td>
-    <td><a href="https://github.com/glm02/INFO-GEII-SKILL"><img src="assets/carte-info-geii.svg" alt="INFO-GEII-SKILL : l'IA code en C pour PIC comme en cours" width="100%"></a></td>
-  </tr>
-</table>
+<!-- Images à largeur fixe plutôt qu'un tableau : deux par ligne sur ordinateur,
+     une par ligne sur téléphone, où le tableau rendait le texte illisible. -->
+<p>
+  <a href="https://github.com/glm02/projet-vide-cave"><img src="assets/carte-vide-cave.svg" alt="projet-vide-cave : commande et surveillance d'une pompe, carte KiCad à PIC" width="400"></a>
+  <a href="https://github.com/glm02/simu-pic"><img src="assets/carte-simu-pic.svg" alt="simu-pic : simulateur web du PIC16F1789" width="400"></a>
+  <a href="https://github.com/glm02/skills-claude-code"><img src="assets/carte-skills.svg" alt="skills-claude-code : 40 procédures pour agents IA" width="400"></a>
+  <a href="https://github.com/glm02/INFO-GEII-SKILL"><img src="assets/carte-info-geii.svg" alt="INFO-GEII-SKILL : l'IA code en C pour PIC comme en cours" width="400"></a>
+</p>
 
 ## Outils
 
@@ -54,7 +52,7 @@ conçois des sites et des automatisations en pilotant des agents IA, sous le nom
 ## Langages
 
 <a href="https://github.com/glm02?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glm02&layout=compact&langs_count=8&hide_border=false&bg_color=ffffff&border_color=c9dafc&title_color=0b1f4d&text_color=44516b&border_radius=18&custom_title=Langages%20les%20plus%20utilis%C3%A9s" alt="Langages les plus utilisés sur mes dépôts publics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glm02&layout=compact&langs_count=8&hide_border=false&bg_color=ffffff&border_color=c9dafc&title_color=0b1f4d&text_color=44516b&border_radius=18&disable_animations=true&custom_title=Langages%20les%20plus%20utilis%C3%A9s" alt="Langages les plus utilisés sur mes dépôts publics">
 </a>
 
 ## Ma règle de travail
