@@ -1,4 +1,4 @@
-# Rafael — génie électrique et agents IA
+# UKR — génie électrique et agents IA
 
 Étudiant en **2e année de BUT GEII** (génie électrique et informatique industrielle).
 Je cherche un **stage en génie électrique d'avril à mai 2027**.
