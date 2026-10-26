@@ -1,38 +1,63 @@
-# UKR — génie électrique et agents IA
+<a href="https://www.rafaelgmille.site">
+  <img src="assets/banniere.svg" alt="UKR — génie électrique et agents IA. Étudiant en 2e année de BUT GEII, stage recherché d'avril à mai 2027." width="100%">
+</a>
 
-Étudiant en **2e année de BUT GEII** (génie électrique et informatique industrielle).
-Je cherche un **stage en génie électrique d'avril à mai 2027**.
+<p align="center">
+  <a href="https://www.rafaelgmille.site"><img src="https://img.shields.io/badge/Portfolio-rafaelgmille.site-1d5fe0?style=for-the-badge&labelColor=0b1f4d" alt="Portfolio"></a>
+  <a href="https://www.rafaelgmille.site/stack"><img src="https://img.shields.io/badge/Ma_stack-et_ma_méthode-1d5fe0?style=for-the-badge&labelColor=0b1f4d" alt="Ma stack et ma méthode"></a>
+  <a href="https://www.rgm-dev.site"><img src="https://img.shields.io/badge/RGM_Dev-rgm--dev.site-1d5fe0?style=for-the-badge&labelColor=0b1f4d" alt="RGM Dev"></a>
+</p>
 
-À côté des études, je conçois des sites et des automatisations en pilotant des
-agents IA (Claude Code, Codex), sous le nom **RGM Dev**.
+Étudiant en **2e année de BUT GEII** (génie électrique et informatique industrielle),
+je cherche un **stage en génie électrique d'avril à mai 2027**. À côté des études, je
+conçois des sites et des automatisations en pilotant des agents IA, sous le nom **RGM Dev**.
 
-**Portfolio :** [rafaelgmille.site](https://www.rafaelgmille.site) ·
-**Ma stack et ma méthode :** [rafaelgmille.site/stack](https://www.rafaelgmille.site/stack) ·
-**RGM Dev :** [rgm-dev.site](https://www.rgm-dev.site)
+## Projets
 
-## Génie électrique
-
-| Projet | Ce que c'est |
-|---|---|
-| [projet-vide-cave](https://github.com/glm02/projet-vide-cave) | Commande d'une pompe vide-cave : carte KiCad à PIC, mesure du courant, triac, maquette Blender, notes Obsidian. En cours. |
-| [simu-pic](https://github.com/glm02/simu-pic) | Simulateur web du microcontrôleur PIC16F1789 (FastAPI, React, WebSockets) |
-| [INFO-GEII-SKILL](https://github.com/glm02/INFO-GEII-SKILL) | Une skill pour que l'IA code en C pour PIC comme en cours de GEII, en guidant plutôt qu'en donnant la solution |
-
-## Agents IA et web
-
-| Projet | Ce que c'est |
-|---|---|
-| [skills-claude-code](https://github.com/glm02/skills-claude-code) | Mes 40 skills : des procédures écrites pour que les agents IA livrent proprement (sites, sécurité, bots, électronique) |
-| [site-a-z-skill](https://github.com/glm02/site-a-z-skill) | La méthode pour livrer un site Next.js de A à Z, en une skill |
-| [sav-ia-shopify-n8n](https://github.com/glm02/sav-ia-shopify-n8n) | Bot de service client par email (n8n, IA, Telegram) avec validation humaine avant chaque envoi |
+<table>
+  <tr>
+    <td><a href="https://github.com/glm02/projet-vide-cave"><img src="assets/carte-vide-cave.svg" alt="projet-vide-cave : commande et surveillance d'une pompe, carte KiCad à PIC" width="100%"></a></td>
+    <td><a href="https://github.com/glm02/simu-pic"><img src="assets/carte-simu-pic.svg" alt="simu-pic : simulateur web du PIC16F1789" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/glm02/skills-claude-code"><img src="assets/carte-skills.svg" alt="skills-claude-code : 40 procédures pour agents IA" width="100%"></a></td>
+    <td><a href="https://github.com/glm02/INFO-GEII-SKILL"><img src="assets/carte-info-geii.svg" alt="INFO-GEII-SKILL : l'IA code en C pour PIC comme en cours" width="100%"></a></td>
+  </tr>
+</table>
 
 ## Outils
 
-**Électronique :** KiCad · MPLAB X (C pour PIC) · LTspice · Arduino / ESP32 · Blender
-**Web :** Next.js · React · TypeScript · Tailwind CSS · Supabase · Vercel
-**Agents IA :** Claude Code · Codex · MCP · n8n · bots Telegram
+**Électronique**<br>
+<img src="https://img.shields.io/badge/KiCad-123a8f?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad">
+<img src="https://img.shields.io/badge/PIC_·_C_·_MPLAB_X-123a8f?style=for-the-badge" alt="PIC, C, MPLAB X">
+<img src="https://img.shields.io/badge/LTspice-123a8f?style=for-the-badge&logo=ltspice&logoColor=white" alt="LTspice">
+<img src="https://img.shields.io/badge/Arduino-123a8f?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+<img src="https://img.shields.io/badge/ESP32-123a8f?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+<img src="https://img.shields.io/badge/Blender-123a8f?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+
+**Web**<br>
+<img src="https://img.shields.io/badge/Next.js-123a8f?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/React-123a8f?style=for-the-badge&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-123a8f?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Tailwind_CSS-123a8f?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Supabase-123a8f?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+<img src="https://img.shields.io/badge/Vercel-123a8f?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Python-123a8f?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+**Agents IA**<br>
+<img src="https://img.shields.io/badge/Claude_Code-123a8f?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
+<img src="https://img.shields.io/badge/Codex-123a8f?style=for-the-badge" alt="Codex">
+<img src="https://img.shields.io/badge/MCP-123a8f?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+<img src="https://img.shields.io/badge/n8n-123a8f?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
+<img src="https://img.shields.io/badge/Bots_Telegram-123a8f?style=for-the-badge&logo=telegram&logoColor=white" alt="Bots Telegram">
+
+## Langages
+
+<a href="https://github.com/glm02?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glm02&layout=compact&langs_count=8&hide_border=false&bg_color=ffffff&border_color=c9dafc&title_color=0b1f4d&text_color=44516b&border_radius=18&custom_title=Langages%20les%20plus%20utilis%C3%A9s" alt="Langages les plus utilisés sur mes dépôts publics">
+</a>
 
 ## Ma règle de travail
 
-Rien n'est annoncé sans preuve : un test vert, une mesure, une capture. Un agent IA
-va vite ; il devient fiable quand il sait ce qu'il doit prouver et où il doit s'arrêter.
+> Rien n'est annoncé sans preuve : un test vert, une mesure, une capture.
+> Un agent IA va vite ; il devient fiable quand il sait ce qu'il doit prouver et où il doit s'arrêter.
